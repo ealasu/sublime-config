@@ -1,0 +1,16 @@
+{
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.light.tmTheme",
+	"font_face": "SourceCodePro-Regular",
+	"font_size": 12,
+	"format_on_save": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_char": " ",
+	"indent_size": 4,
+	"tab_size": 2,
+	"theme": "Spacegray Light.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
