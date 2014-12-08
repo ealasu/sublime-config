@@ -9,10 +9,11 @@ define([
 ) {
   'use strict';
 
-  var ${1:class} = Marionette.${2:parent}.extend({
+  var ${1:class} = Marionette.${2:parent_class}.extend({
 
-    className: 'template--${3}',
-    template: '${4}'
+    className: 'template--${3:class_name}',
+
+    template: Templates.${4:template}
 
   });
 
